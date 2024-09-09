@@ -1,0 +1,7 @@
+D:\CASD\CASD_Task1\CASD_Task1\bin\Debug\CASD_Task1.exe.config
+D:\CASD\CASD_Task1\CASD_Task1\bin\Debug\CASD_Task1.exe
+D:\CASD\CASD_Task1\CASD_Task1\bin\Debug\CASD_Task1.pdb
+D:\CASD\CASD_Task1\CASD_Task1\obj\Debug\CASD_Task1.csproj.AssemblyReference.cache
+D:\CASD\CASD_Task1\CASD_Task1\obj\Debug\CASD_Task1.csproj.CoreCompileInputs.cache
+D:\CASD\CASD_Task1\CASD_Task1\obj\Debug\CASD_Task1.exe
+D:\CASD\CASD_Task1\CASD_Task1\obj\Debug\CASD_Task1.pdb
