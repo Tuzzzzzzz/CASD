@@ -86,11 +86,11 @@ namespace CASD_Task2
                         case "9":
                             try
                             {
-                                Console.WriteLine("Результат: " + $"{complexNumber.GetArg()} PI");
+                                Console.WriteLine($"Результат: {complexNumber.GetArg()} PI");
                             }
                             catch (ArgumentException argEx)
                             {
-                                Console.WriteLine("Результат: " + "Неопределённость");
+                                Console.WriteLine("Результат: Неопределённость");
                             }
                             break;
                         case "10":

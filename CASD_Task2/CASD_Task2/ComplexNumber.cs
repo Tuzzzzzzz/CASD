@@ -24,21 +24,21 @@ namespace CASD_Task2
         public override string ToString() 
             => $"{RealPath} + {ImaginaryPath}*i";
 
-        public ComplexNumber Add(ref ComplexNumber other)
+        public ComplexNumber Add(ref readonly ComplexNumber other)
         {
             RealPath += other.RealPath;
             ImaginaryPath += other.ImaginaryPath;
             return this;
         }
 
-        public ComplexNumber Substract(ref ComplexNumber other)
+        public ComplexNumber Substract(ref readonly ComplexNumber other)
         {
             RealPath -= other.RealPath;
             ImaginaryPath -= other.ImaginaryPath;
             return this;
         }
 
-        public ComplexNumber Multiply(ref ComplexNumber other)
+        public ComplexNumber Multiply(ref readonly ComplexNumber other)
         {
             double a1 = RealPath;
             double a2 = other.RealPath;
@@ -51,7 +51,7 @@ namespace CASD_Task2
             return this;
         }
 
-        public ComplexNumber Divide(ref ComplexNumber other)
+        public ComplexNumber Divide(ref readonly ComplexNumber other)
         {
             double a1 = RealPath;
             double a2 = other.RealPath;
