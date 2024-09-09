@@ -66,19 +66,19 @@ namespace CASD_Task2
                             break;
                         case "4":
                             newComplexNumber = OfferNewComplexNumber();
-                            Console.WriteLine("Результат: " + complexNumber.Add(newComplexNumber));
+                            Console.WriteLine("Результат: " + complexNumber.Add(ref newComplexNumber));
                             break;
                         case "5":
                             newComplexNumber = OfferNewComplexNumber();
-                            Console.WriteLine("Результат: " + complexNumber.Substract(newComplexNumber));
+                            Console.WriteLine("Результат: " + complexNumber.Substract(ref newComplexNumber));
                             break;
                         case "6":
                             newComplexNumber = OfferNewComplexNumber();
-                            Console.WriteLine("Результат: " + complexNumber.Multiply(newComplexNumber));
+                            Console.WriteLine("Результат: " + complexNumber.Multiply(ref newComplexNumber));
                             break;
                         case "7":
                             newComplexNumber = OfferNewComplexNumber();
-                            Console.WriteLine("Результат: " + complexNumber.Divide(newComplexNumber));
+                            Console.WriteLine("Результат: " + complexNumber.Divide(ref newComplexNumber));
                             break;
                         case "8":
                             Console.WriteLine("Результат: " + complexNumber.GetModule());
