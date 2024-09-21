@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CASD\\CASD_Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|D:\\CASD\\CASD_Task3\\casd_task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|solutionrelative:casd_task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|d:\\casd\\casd_task3\\casd_task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|solutionrelative:casd_task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|d:\\casd\\casd_task3\\casd_task3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|solutionrelative:casd_task3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|D:\\CASD\\CASD_Task3\\casd_task3\\arraygenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|solutionrelative:casd_task3\\arraygenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|D:\\CASD\\CASD_Task3\\casd_task3\\sorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|solutionrelative:casd_task3\\sorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|D:\\CASD\\CASD_Task3\\casd_task3\\binaryheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E8FE9D-AC61-4540-8DBB-C1BC8B879C44}|CASD_Task3\\CASD_Task3.csproj|solutionrelative:casd_task3\\binaryheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\CASD\\CASD_Task3\\CASD_Task3\\Class1.cs",
+              "RelativeDocumentMoniker": "CASD_Task3\\Class1.cs",
+              "ToolTip": "D:\\CASD\\CASD_Task3\\CASD_Task3\\Class1.cs",
+              "RelativeToolTip": "CASD_Task3\\Class1.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAwwN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:21:49.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\CASD\\CASD_Task3\\CASD_Task3\\Form1.cs",
+              "RelativeDocumentMoniker": "CASD_Task3\\Form1.cs",
+              "ToolTip": "D:\\CASD\\CASD_Task3\\CASD_Task3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "CASD_Task3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:50:03.794Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CASD\\CASD_Task3\\CASD_Task3\\Form1.cs",
+              "RelativeDocumentMoniker": "CASD_Task3\\Form1.cs",
+              "ToolTip": "D:\\CASD\\CASD_Task3\\CASD_Task3\\Form1.cs*",
+              "RelativeToolTip": "CASD_Task3\\Form1.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwHEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:38:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayGenerators.cs",
+              "DocumentMoniker": "D:\\CASD\\CASD_Task3\\CASD_Task3\\ArrayGenerators.cs",
+              "RelativeDocumentMoniker": "CASD_Task3\\ArrayGenerators.cs",
+              "ToolTip": "D:\\CASD\\CASD_Task3\\CASD_Task3\\ArrayGenerators.cs",
+              "RelativeToolTip": "CASD_Task3\\ArrayGenerators.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwDYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:12:02.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sorts.cs",
+              "DocumentMoniker": "D:\\CASD\\CASD_Task3\\CASD_Task3\\Sorts.cs",
+              "RelativeDocumentMoniker": "CASD_Task3\\Sorts.cs",
+              "ToolTip": "D:\\CASD\\CASD_Task3\\CASD_Task3\\Sorts.cs",
+              "RelativeToolTip": "CASD_Task3\\Sorts.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:32:47.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinaryHeap.cs",
+              "DocumentMoniker": "D:\\CASD\\CASD_Task3\\CASD_Task3\\BinaryHeap.cs",
+              "RelativeDocumentMoniker": "CASD_Task3\\BinaryHeap.cs",
+              "ToolTip": "D:\\CASD\\CASD_Task3\\CASD_Task3\\BinaryHeap.cs",
+              "RelativeToolTip": "CASD_Task3\\BinaryHeap.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:10:32.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
