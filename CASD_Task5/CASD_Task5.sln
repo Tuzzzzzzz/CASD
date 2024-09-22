@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CASD_Task5", "CASD_Task5\CASD_Task5.csproj", "{E7A5ACE3-6089-4544-9A9B-1A53B9CE4E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A5ACE3-6089-4544-9A9B-1A53B9CE4E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A5ACE3-6089-4544-9A9B-1A53B9CE4E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A5ACE3-6089-4544-9A9B-1A53B9CE4E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A5ACE3-6089-4544-9A9B-1A53B9CE4E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {678DA5A6-92FB-4DC3-B8AD-4536D5AE2A71}
+	EndGlobalSection
+EndGlobal

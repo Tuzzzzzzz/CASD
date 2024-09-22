@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JK-Trigger</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="text">JK-Trigger</div>
+
+    <div class="trigger">
+
+        <div class="buttons">
+            <div class="circle btn in J">0</div>
+            <div class="circle btn in C">0</div>
+            <div class="circle btn in K">0</div>
+        </div>
+
+        <img class="picture" src="JK_Trigger.gif" alt="JK Триггер" />
+
+        <div class="outputs">
+            <div class="circle out Q">0</div>
+            <div class="circle out nQ">1</div>
+        </div>
+
+        <div class="circle btn start">start</div>
+
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
