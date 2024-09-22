@@ -52,7 +52,6 @@
     <Compile Include="ArrayGenerators.cs" />
     <Compile Include="BinaryHeap.cs" />
     <Compile Include="BynaryTree.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
