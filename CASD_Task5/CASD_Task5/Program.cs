@@ -35,7 +35,8 @@ internal class Program
         {
             for (int i = 0; i < symbols1.Size(); i++)
             {
-                if (!(symbols1[i] == symbols2[i] || Math.Abs(symbols1[i] - symbols2[i]) == 32))
+                if (!(symbols1[i] == symbols2[i] || Math.Abs(symbols1[i] - symbols2[i]) == 32 
+                    && Char.IsLetter(symbols1[i]) && Char.IsLetter(symbols2[i])))
                 {
                     return false;
                 }
@@ -77,8 +78,7 @@ internal class Program
         {
             char c = tag[i];
             if(c== '/') cntSlash++;
-            else if (!(c >= 48 && c <= 58 && i != 0 || c >= 65 && c <= 90 
-                || c >= 97 && c <= 122)) itsOk = false;
+            else if (!(Char.IsDigit(c) && i != 0 || Char.IsLetter(c))) itsOk = false;
         }
         return tag[0] == '<' && tag[tag.Length - 1] == '>'
             && (cntSlash == 1 && tag[1] == '/' || cntSlash == 0) && itsOk;
