@@ -20,6 +20,7 @@ internal class Program
                 {
                     tags.RemoveAt(j);
                     i--;
+                    break;
                 }
             }
         }
