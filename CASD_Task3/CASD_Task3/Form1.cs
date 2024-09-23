@@ -40,7 +40,7 @@ namespace CASD_Task3
         }
 
      
-        private async Task /*void*/ RunTimeTest(Func<int, int, int[]> generateArray, params Func<int[], int[]>[] sorts)
+        private async Task RunTimeTest(Func<int, int, int[]> generateArray, params Func<int[], int[]>[] sorts)
         {
             int arrayLenght = 10;
             timeData = new double[sorts.Length][];
@@ -61,9 +61,6 @@ namespace CASD_Task3
                         tasks[j] = Task.Run(
                             () => GetSortExecTime(sort, copiedArray)
                         );
-                        //var(totalTime, sortedArray) = GetSortExecTime(sort, copiedArray);
-                        //timeData[j][i] = totalTime;
-                        //arrayWritter.WriteLine($"{sortNames[(int)typeOfSorts][j]}: [{string.Join(", ", sortedArray)}] за время {totalTime}мс");
                     }
                     var results = await Task.WhenAll(tasks);
                     for (int j = 0; j < results.Length; j++)
@@ -98,7 +95,7 @@ namespace CASD_Task3
         }
 
 
-        private async Task /*void*/ SelectAndRunTimeTest()
+        private async Task SelectAndRunTimeTest()
         {
             Func<int, int, int[]> generateArray = null;
             switch (typeOfArray)
