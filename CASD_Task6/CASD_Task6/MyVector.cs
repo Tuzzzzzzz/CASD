@@ -237,7 +237,7 @@ internal class MyVector<T>
         => Array.IndexOf(ItemData, value, 0, Size());
 
     public int LastIndexOf(T value)
-        => Array.LastIndexOf(ItemData, value, 0, Size());
+        => Array.LastIndexOf(ItemData, value, Size() - 1, Size());
 
     public void Clear()
     {
