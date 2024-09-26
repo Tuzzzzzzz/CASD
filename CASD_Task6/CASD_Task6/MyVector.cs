@@ -1,13 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MyVector;
+﻿namespace MyVector;
 
 internal class MyVector<T>
 {
@@ -19,7 +10,7 @@ internal class MyVector<T>
     {
         if (initialCapacity < 0 || capacityIncrement < 0) throw new ArgumentOutOfRangeException();
 
-        ItemCnt = initialCapacity;
+        ItemCnt = 0;
         CapacityIncrement = capacityIncrement;
         ItemData = new T[initialCapacity];
     }
@@ -36,6 +27,8 @@ internal class MyVector<T>
         CapacityIncrement = 0;
         ItemData = (T[])array.Clone();
     }
+
+    public MyVector(MyVector<T> vector) : this(vector.ToArray()) { }
 
     public int Size() => ItemCnt;
 
