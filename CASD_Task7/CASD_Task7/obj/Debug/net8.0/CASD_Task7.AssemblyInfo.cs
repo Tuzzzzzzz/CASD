@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CASD_Task7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1841c7f6e6d0a9d07b6b427238c0488b8fc98c56")]
 [assembly: System.Reflection.AssemblyProductAttribute("CASD_Task7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CASD_Task7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

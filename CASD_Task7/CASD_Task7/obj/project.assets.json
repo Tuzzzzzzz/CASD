@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task7\\CASD_Task7\\CASD_Task7.csproj",
+      "projectUniqueName": "D:\\CASD\\CASD_Task7\\CASD_Task7\\CASD_Task7.csproj",
       "projectName": "CASD_Task7",
-      "projectPath": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task7\\CASD_Task7\\CASD_Task7.csproj",
+      "projectPath": "D:\\CASD\\CASD_Task7\\CASD_Task7\\CASD_Task7.csproj",
       "packagesPath": "C:\\Users\\tuzee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task7\\CASD_Task7\\obj\\",
+      "outputPath": "D:\\CASD\\CASD_Task7\\CASD_Task7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tuzee\\AppData\\Roaming\\NuGet\\NuGet.Config",
