@@ -10,7 +10,7 @@ internal class MyVector<T>
     {
         if (initialCapacity < 0 || capacityIncrement < 0) throw new ArgumentOutOfRangeException();
 
-        ItemCnt = initialCapacity;
+        ItemCnt = 0;
         CapacityIncrement = capacityIncrement;
         ItemData = new T[initialCapacity];
     }
@@ -27,6 +27,8 @@ internal class MyVector<T>
         CapacityIncrement = 0;
         ItemData = (T[])array.Clone();
     }
+
+    public MyVector(MyVector<T> vector) : this(vector.ToArray()) { }
 
     public int Size() => ItemCnt;
 
@@ -228,7 +230,7 @@ internal class MyVector<T>
         => Array.IndexOf(ItemData, value, 0, Size());
 
     public int LastIndexOf(T value)
-        => Array.LastIndexOf(ItemData, value, 0, Size());
+        => Array.LastIndexOf(ItemData, value, Size() - 1, Size());
 
     public void Clear()
     {
