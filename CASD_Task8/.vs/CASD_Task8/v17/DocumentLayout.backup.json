@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11556CCC-642C-4157-B0E2-D73DEEDDB009}|CASD_Task8\\CASD_Task8.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task8\\casd_task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11556CCC-642C-4157-B0E2-D73DEEDDB009}|CASD_Task8\\CASD_Task8.csproj|solutionrelative:casd_task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11556CCC-642C-4157-B0E2-D73DEEDDB009}|CASD_Task8\\CASD_Task8.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task8\\casd_task8\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11556CCC-642C-4157-B0E2-D73DEEDDB009}|CASD_Task8\\CASD_Task8.csproj|solutionrelative:casd_task8\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11556CCC-642C-4157-B0E2-D73DEEDDB009}|CASD_Task8\\CASD_Task8.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task8\\casd_task8\\myvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11556CCC-642C-4157-B0E2-D73DEEDDB009}|CASD_Task8\\CASD_Task8.csproj|solutionrelative:casd_task8\\myvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task8\\CASD_Task8\\MyStack.cs",
+              "RelativeDocumentMoniker": "CASD_Task8\\MyStack.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task8\\CASD_Task8\\MyStack.cs",
+              "RelativeToolTip": "CASD_Task8\\MyStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:35:23.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyVector.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task8\\CASD_Task8\\MyVector.cs",
+              "RelativeDocumentMoniker": "CASD_Task8\\MyVector.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task8\\CASD_Task8\\MyVector.cs",
+              "RelativeToolTip": "CASD_Task8\\MyVector.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:34:44.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task8\\CASD_Task8\\Program.cs",
+              "RelativeDocumentMoniker": "CASD_Task8\\Program.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task8\\CASD_Task8\\Program.cs",
+              "RelativeToolTip": "CASD_Task8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:34:17.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
