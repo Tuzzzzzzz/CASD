@@ -30,7 +30,12 @@ internal class MyVector<T>: IEnumerable<T>
         ItemData = (T[])array.Clone();
     }
 
-    public MyVector(MyVector<T> vector) : this(vector.ToArray()) { }
+    public MyVector(IEnumerable<T> collection)
+    {
+        if (collection == null) throw new ArgumentNullException();
+
+        foreach (T item in collection) Add(item);
+    }
 
     public int Size() => ItemCnt;
 
@@ -216,7 +221,6 @@ internal class MyVector<T>: IEnumerable<T>
         return newArray;
     }
 
-
     public bool Contains(T value)
         => IndexOf(value) != -1;
 
@@ -269,13 +273,10 @@ internal class MyVector<T>: IEnumerable<T>
     public override string ToString()
         => $"[{string.Join(", ", ToArray())}]";
 
-    public IEnumerator<T> GetEnumerator()
+    public virtual IEnumerator<T> GetEnumerator()
     {
         for (int i = 0; i < Size(); i++) yield return ItemData[i];
     }
 
-    IEnumerator IEnumerable.GetEnumerator()
-    {
-        return GetEnumerator();
-    }
+    IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
 }
