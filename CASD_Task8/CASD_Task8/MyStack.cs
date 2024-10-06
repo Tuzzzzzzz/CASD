@@ -1,7 +1,8 @@
 ﻿namespace MyStack;
 using MyVector;
+using System.Collections;
 
-internal class MyStack<T> : MyVector<T>
+internal class MyStack<T> : MyVector<T>, IEnumerable<T>
 {
     public MyStack(int initialCapacity, int capacityIncrement)
         : base(initialCapacity, capacityIncrement) { }
@@ -12,7 +13,7 @@ internal class MyStack<T> : MyVector<T>
 
     public MyStack(T[] array) : base(array) { }
 
-    public MyStack(MyVector<T> vector) : base(vector) { }
+    public MyStack(IEnumerable<T> collection) : base(collection) { }
 
     public void Push(T value) => Add(value);
 
@@ -26,4 +27,11 @@ internal class MyStack<T> : MyVector<T>
         if (index == -1) return -1;
         return Size() - index;
     }
+
+    public override IEnumerator<T> GetEnumerator()
+    {
+        for(int i = Size()-1; i >= 0; i--) yield return base[i];
+    }
+
+    IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
 }
