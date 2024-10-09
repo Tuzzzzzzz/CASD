@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task9\\",
+  "WorkspaceRootPath": "C:\\Users\\tuzee\\OneDrive\\Desktop\\\u043F\u0440\u043E\u0433\u0430\\CASD_Task9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15DB4D86-5143-4159-BD68-1AF18F714FE8}|CASD_Task9\\CASD_Task9.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task9\\casd_task9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15DB4D86-5143-4159-BD68-1AF18F714FE8}|CASD_Task9\\CASD_Task9.csproj|c:\\users\\tuzee\\onedrive\\desktop\\\u043F\u0440\u043E\u0433\u0430\\casd_task9\\casd_task9\\rpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DB4D86-5143-4159-BD68-1AF18F714FE8}|CASD_Task9\\CASD_Task9.csproj|solutionrelative:casd_task9\\rpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DB4D86-5143-4159-BD68-1AF18F714FE8}|CASD_Task9\\CASD_Task9.csproj|c:\\users\\tuzee\\onedrive\\desktop\\\u043F\u0440\u043E\u0433\u0430\\casd_task9\\casd_task9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15DB4D86-5143-4159-BD68-1AF18F714FE8}|CASD_Task9\\CASD_Task9.csproj|solutionrelative:casd_task9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15DB4D86-5143-4159-BD68-1AF18F714FE8}|CASD_Task9\\CASD_Task9.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task9\\casd_task9\\rpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15DB4D86-5143-4159-BD68-1AF18F714FE8}|CASD_Task9\\CASD_Task9.csproj|solutionrelative:casd_task9\\rpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15DB4D86-5143-4159-BD68-1AF18F714FE8}|CASD_Task9\\CASD_Task9.csproj|c:\\users\\tuzee\\onedrive\\desktop\\\u043F\u0440\u043E\u0433\u0430\\casd_task9\\casd_task9\\smartrpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DB4D86-5143-4159-BD68-1AF18F714FE8}|CASD_Task9\\CASD_Task9.csproj|solutionrelative:casd_task9\\smartrpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,25 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RPN.cs",
-              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task9\\CASD_Task9\\RPN.cs",
-              "RelativeDocumentMoniker": "CASD_Task9\\RPN.cs",
-              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task9\\CASD_Task9\\RPN.cs",
-              "RelativeToolTip": "CASD_Task9\\RPN.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SmartRPN.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\\u043F\u0440\u043E\u0433\u0430\\CASD_Task9\\CASD_Task9\\SmartRPN.cs",
+              "RelativeDocumentMoniker": "CASD_Task9\\SmartRPN.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\\u043F\u0440\u043E\u0433\u0430\\CASD_Task9\\CASD_Task9\\SmartRPN.cs",
+              "RelativeToolTip": "CASD_Task9\\SmartRPN.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T17:50:56.964Z"
+              "WhenOpened": "2024-10-06T20:15:28.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RPN.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\\u043F\u0440\u043E\u0433\u0430\\CASD_Task9\\CASD_Task9\\RPN.cs",
+              "RelativeDocumentMoniker": "CASD_Task9\\RPN.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\\u043F\u0440\u043E\u0433\u0430\\CASD_Task9\\CASD_Task9\\RPN.cs",
+              "RelativeToolTip": "CASD_Task9\\RPN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:50:56.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task9\\CASD_Task9\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\\u043F\u0440\u043E\u0433\u0430\\CASD_Task9\\CASD_Task9\\Program.cs",
               "RelativeDocumentMoniker": "CASD_Task9\\Program.cs",
-              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task9\\CASD_Task9\\Program.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\\u043F\u0440\u043E\u0433\u0430\\CASD_Task9\\CASD_Task9\\Program.cs",
               "RelativeToolTip": "CASD_Task9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T15:49:01.071Z",
               "EditorCaption": ""
