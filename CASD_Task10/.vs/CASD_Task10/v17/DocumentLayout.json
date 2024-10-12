@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA10F1-E497-43BF-908E-B2B7A3F9884F}|CASD_Task10\\CASD_Task10.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task10\\casd_task10\\maxheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA10F1-E497-43BF-908E-B2B7A3F9884F}|CASD_Task10\\CASD_Task10.csproj|solutionrelative:casd_task10\\maxheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA10F1-E497-43BF-908E-B2B7A3F9884F}|CASD_Task10\\CASD_Task10.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task10\\casd_task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA10F1-E497-43BF-908E-B2B7A3F9884F}|CASD_Task10\\CASD_Task10.csproj|solutionrelative:casd_task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaxHeap.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task10\\CASD_Task10\\MaxHeap.cs",
+              "RelativeDocumentMoniker": "CASD_Task10\\MaxHeap.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task10\\CASD_Task10\\MaxHeap.cs",
+              "RelativeToolTip": "CASD_Task10\\MaxHeap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:34:24.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task10\\CASD_Task10\\Program.cs",
+              "RelativeDocumentMoniker": "CASD_Task10\\Program.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task10\\CASD_Task10\\Program.cs",
+              "RelativeToolTip": "CASD_Task10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:38:06.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
