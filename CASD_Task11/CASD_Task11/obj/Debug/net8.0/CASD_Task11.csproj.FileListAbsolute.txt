@@ -1,0 +1,14 @@
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\obj\Debug\net8.0\CASD_Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\obj\Debug\net8.0\CASD_Task11.AssemblyInfoInputs.cache
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\obj\Debug\net8.0\CASD_Task11.AssemblyInfo.cs
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\obj\Debug\net8.0\CASD_Task11.csproj.CoreCompileInputs.cache
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\bin\Debug\net8.0\CASD_Task11.exe
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\bin\Debug\net8.0\CASD_Task11.deps.json
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\bin\Debug\net8.0\CASD_Task11.runtimeconfig.json
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\bin\Debug\net8.0\CASD_Task11.dll
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\bin\Debug\net8.0\CASD_Task11.pdb
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\obj\Debug\net8.0\CASD_Task11.dll
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\obj\Debug\net8.0\refint\CASD_Task11.dll
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\obj\Debug\net8.0\CASD_Task11.pdb
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\obj\Debug\net8.0\CASD_Task11.genruntimeconfig.cache
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task11\CASD_Task11\obj\Debug\net8.0\ref\CASD_Task11.dll
