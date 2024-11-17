@@ -128,7 +128,7 @@ public class RBTree<K, V> where K : IComparable<K>
                     if (node == node.Parent.Right)
                     {
                         LeftRotate(node.Parent);
-                        node = node.Parent;
+                        node = node.Left!;
                     }
                     node.Parent!.Color = Color.BLACK;
                     node.Parent.Parent!.Color = Color.RED;
@@ -151,7 +151,7 @@ public class RBTree<K, V> where K : IComparable<K>
                     if (node == node.Parent.Left)
                     {
                         RightRotate(node.Parent);
-                        node = node.Parent;
+                        node = node.Right!;
                     }
                     node.Parent!.Color = Color.BLACK;
                     node.Parent.Parent!.Color = Color.RED;
@@ -176,13 +176,13 @@ public class RBTree<K, V> where K : IComparable<K>
                 node.Parent.Right = node.Left;
         }
 
-        var new_root = node.Left;
-        new_root!.Parent = node.Parent;
+        var newRoot = node.Left;
+        newRoot!.Parent = node.Parent;
 
-        var copy = new_root.Right;
+        var copy = newRoot.Right;
 
-        new_root.Right = node;
-        node.Parent = new_root;
+        newRoot.Right = node;
+        node.Parent = newRoot;
 
         node.Left = copy;
         copy!.Parent = node;
@@ -201,13 +201,13 @@ public class RBTree<K, V> where K : IComparable<K>
                 node.Parent.Left = node.Right;
         }
 
-        var new_root = node.Right;
-        new_root!.Parent = node.Parent;
+        var newRoot = node.Right;
+        newRoot!.Parent = node.Parent;
 
-        var copy = new_root.Left;
+        var copy = newRoot.Left;
 
-        new_root.Left = node;
-        node.Parent = new_root;
+        newRoot.Left = node;
+        node.Parent = newRoot;
 
         node.Right = copy;
         copy!.Parent = node;
@@ -335,7 +335,7 @@ public class RBTree<K, V> where K : IComparable<K>
             if (delNode!.Color == Color.RED && delNode.Left == Nil && delNode.Right == Nil)
             {
                 if (delNode.Parent is null)
-                    _root = Nil;
+                    _root = null;
                 else
                 {
                     if (delNode.Parent.Right == delNode)

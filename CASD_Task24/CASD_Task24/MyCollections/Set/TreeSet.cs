@@ -305,22 +305,6 @@ internal class TreeSet<K> where K : IComparable<K>
         return true;
     }
 
-    public K PollFirst()
-    {
-        if (IsEmpty()) throw new Exception();
-        var minNode = _tree.MinNode();
-        _tree.Remove(minNode!.Key);
-        return minNode.Key!;
-    }
-
-    public K PollLastEntry()
-    {
-        if (IsEmpty()) throw new Exception();
-        var maxNode = _tree.MaxNode();
-        _tree.Remove(maxNode!.Key);
-        return maxNode.Key!;
-    }
-
     public K First()
     {
         if (IsEmpty()) throw new Exception();
@@ -344,7 +328,7 @@ internal class TreeSet<K> where K : IComparable<K>
 
         var it1 = set1.Iterator();
         var it2 = set2.Iterator();
-        if (!it1.HasNext() && it2.HasNext()) return set3;
+        if (!(it1.HasNext() && it2.HasNext())) return set3;
 
         var map1HasNext = true;
         var map2HasNext = true;
