@@ -1,0 +1,15 @@
+D:\CASD\CASD_Task21\CASD_Task21\bin\Debug\net8.0\CASD_Task21.exe
+D:\CASD\CASD_Task21\CASD_Task21\bin\Debug\net8.0\CASD_Task21.deps.json
+D:\CASD\CASD_Task21\CASD_Task21\bin\Debug\net8.0\CASD_Task21.runtimeconfig.json
+D:\CASD\CASD_Task21\CASD_Task21\bin\Debug\net8.0\CASD_Task21.dll
+D:\CASD\CASD_Task21\CASD_Task21\bin\Debug\net8.0\CASD_Task21.pdb
+D:\CASD\CASD_Task21\CASD_Task21\obj\Debug\net8.0\CASD_Task21.GeneratedMSBuildEditorConfig.editorconfig
+D:\CASD\CASD_Task21\CASD_Task21\obj\Debug\net8.0\CASD_Task21.AssemblyInfoInputs.cache
+D:\CASD\CASD_Task21\CASD_Task21\obj\Debug\net8.0\CASD_Task21.AssemblyInfo.cs
+D:\CASD\CASD_Task21\CASD_Task21\obj\Debug\net8.0\CASD_Task21.csproj.CoreCompileInputs.cache
+D:\CASD\CASD_Task21\CASD_Task21\obj\Debug\net8.0\CASD_Task21.sourcelink.json
+D:\CASD\CASD_Task21\CASD_Task21\obj\Debug\net8.0\CASD_Task21.dll
+D:\CASD\CASD_Task21\CASD_Task21\obj\Debug\net8.0\refint\CASD_Task21.dll
+D:\CASD\CASD_Task21\CASD_Task21\obj\Debug\net8.0\CASD_Task21.pdb
+D:\CASD\CASD_Task21\CASD_Task21\obj\Debug\net8.0\CASD_Task21.genruntimeconfig.cache
+D:\CASD\CASD_Task21\CASD_Task21\obj\Debug\net8.0\ref\CASD_Task21.dll
