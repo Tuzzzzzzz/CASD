@@ -1,0 +1,14 @@
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\bin\Debug\net8.0\CASD_Task23.exe
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\bin\Debug\net8.0\CASD_Task23.deps.json
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\bin\Debug\net8.0\CASD_Task23.runtimeconfig.json
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\bin\Debug\net8.0\CASD_Task23.dll
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\bin\Debug\net8.0\CASD_Task23.pdb
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\obj\Debug\net8.0\CASD_Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\obj\Debug\net8.0\CASD_Task23.AssemblyInfoInputs.cache
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\obj\Debug\net8.0\CASD_Task23.AssemblyInfo.cs
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\obj\Debug\net8.0\CASD_Task23.csproj.CoreCompileInputs.cache
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\obj\Debug\net8.0\CASD_Task23.dll
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\obj\Debug\net8.0\refint\CASD_Task23.dll
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\obj\Debug\net8.0\CASD_Task23.pdb
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\obj\Debug\net8.0\CASD_Task23.genruntimeconfig.cache
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task23\CASD_Task23\obj\Debug\net8.0\ref\CASD_Task23.dll
