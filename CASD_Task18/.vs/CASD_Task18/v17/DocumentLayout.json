@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60AF1647-CCE4-4B10-8375-BDD196CA49D1}|CASD_Task18\\CASD_Task18.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task18\\casd_task18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AF1647-CCE4-4B10-8375-BDD196CA49D1}|CASD_Task18\\CASD_Task18.csproj|solutionrelative:casd_task18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AF1647-CCE4-4B10-8375-BDD196CA49D1}|CASD_Task18\\CASD_Task18.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task18\\casd_task18\\myhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AF1647-CCE4-4B10-8375-BDD196CA49D1}|CASD_Task18\\CASD_Task18.csproj|solutionrelative:casd_task18\\myhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AF1647-CCE4-4B10-8375-BDD196CA49D1}|CASD_Task18\\CASD_Task18.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task18\\casd_task18\\myiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AF1647-CCE4-4B10-8375-BDD196CA49D1}|CASD_Task18\\CASD_Task18.csproj|solutionrelative:casd_task18\\myiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AF1647-CCE4-4B10-8375-BDD196CA49D1}|CASD_Task18\\CASD_Task18.csproj|c:\\users\\tuzee\\onedrive\\desktop\\casd_task18\\casd_task18\\myhashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AF1647-CCE4-4B10-8375-BDD196CA49D1}|CASD_Task18\\CASD_Task18.csproj|solutionrelative:casd_task18\\myhashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyHashSet.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task18\\CASD_Task18\\MyHashSet.cs",
+              "RelativeDocumentMoniker": "CASD_Task18\\MyHashSet.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task18\\CASD_Task18\\MyHashSet.cs",
+              "RelativeToolTip": "CASD_Task18\\MyHashSet.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAA6wIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:05:55.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyIterator.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task18\\CASD_Task18\\MyIterator.cs",
+              "RelativeDocumentMoniker": "CASD_Task18\\MyIterator.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task18\\CASD_Task18\\MyIterator.cs",
+              "RelativeToolTip": "CASD_Task18\\MyIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:32:12.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyHashMap.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task18\\CASD_Task18\\MyHashMap.cs",
+              "RelativeDocumentMoniker": "CASD_Task18\\MyHashMap.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task18\\CASD_Task18\\MyHashMap.cs",
+              "RelativeToolTip": "CASD_Task18\\MyHashMap.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAswMEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:16:27.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task18\\CASD_Task18\\Program.cs",
+              "RelativeDocumentMoniker": "CASD_Task18\\Program.cs",
+              "ToolTip": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CASD_Task18\\CASD_Task18\\Program.cs",
+              "RelativeToolTip": "CASD_Task18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:32:36.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
