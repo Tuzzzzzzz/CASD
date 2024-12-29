@@ -1,0 +1,4 @@
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task28\CASD_Task28\obj\Debug\net8.0\CASD_Task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task28\CASD_Task28\obj\Debug\net8.0\CASD_Task28.AssemblyInfoInputs.cache
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task28\CASD_Task28\obj\Debug\net8.0\CASD_Task28.AssemblyInfo.cs
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task28\CASD_Task28\obj\Debug\net8.0\CASD_Task28.csproj.CoreCompileInputs.cache
