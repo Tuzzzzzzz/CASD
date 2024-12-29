@@ -1,0 +1,14 @@
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\bin\Debug\net8.0\CASD_Task29.exe
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\bin\Debug\net8.0\CASD_Task29.deps.json
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\bin\Debug\net8.0\CASD_Task29.runtimeconfig.json
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\bin\Debug\net8.0\CASD_Task29.dll
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\bin\Debug\net8.0\CASD_Task29.pdb
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\obj\Debug\net8.0\CASD_Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\obj\Debug\net8.0\CASD_Task29.AssemblyInfoInputs.cache
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\obj\Debug\net8.0\CASD_Task29.AssemblyInfo.cs
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\obj\Debug\net8.0\CASD_Task29.csproj.CoreCompileInputs.cache
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\obj\Debug\net8.0\CASD_Task29.dll
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\obj\Debug\net8.0\refint\CASD_Task29.dll
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\obj\Debug\net8.0\CASD_Task29.pdb
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\obj\Debug\net8.0\CASD_Task29.genruntimeconfig.cache
+C:\Users\tuzee\OneDrive\Desktop\CASD_Task29\CASD_Task29\obj\Debug\net8.0\ref\CASD_Task29.dll
